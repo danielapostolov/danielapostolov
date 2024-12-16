@@ -1,6 +1,6 @@
 # 🌌 Welcome to My GitHub Universe!  
 
-Hi there, I’m **[Daniel Apostolov]** – a passionate **developer**, **problem solver**, and **tech enthusiast** on a journey to craft meaningful and innovative solutions. 🚀  
+Hi there, I’m **Daniel Apostolov** – a passionate **developer**, **problem solver**, and **tech enthusiast** on a journey to craft meaningful and innovative solutions. 🚀  
 
 Here, you'll find a collection of my experiments, projects, and adventures in the world of technology and code. Let's create, learn, and inspire together! 💡  
 
