@@ -24,14 +24,13 @@ Here, you'll find a collection of my experiments, projects, and adventures in th
 
 ## ✨ Highlights of My Work  
 
-- **[The Mystic Library](#)**  
+- **[The Mystic Library](https://github.com/danielapostolov/The-Mystic-Library.git)**  
   *Online books library(React SPA)*  
 
-- **[AutoHub](#)**  
+- **[AutoHub](https://github.com/danielapostolov/AutoHub.git)**  
   *Cars blog(Angular SPA)*  
 
 ---
-
 
 ## 👩‍🚀 About Me  
 
