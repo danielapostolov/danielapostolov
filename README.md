@@ -59,16 +59,6 @@ Here, you'll find a collection of my experiments, projects, and adventures in th
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielapostolov&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielapostolov&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danielapostolov&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ✨ *"Code is more than just logic; it's a canvas for creativity."*  
